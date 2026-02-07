@@ -239,7 +239,7 @@ export const personalInfo = {
   email: "manivardhanreddyreddem93@gmail.com",
   phone: "+1 (618) 517-5957",
   location: "Saint Louis, MO",
-  linkedin: "https://www.linkedin.com/in/manivardhanreddy",
+  linkedin: "https://www.linkedin.com/in/manivardhan-reddy-2a7049228/",
   github: "https://github.com/manivardhanreddy",
   portfolio: "https://manivardhanreddy.vercel.app",
   resume: "/manivardhan_reddy_resume.pdf",
